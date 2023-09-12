@@ -1,4 +1,4 @@
-number = int(input('введите число '))
+number = int(input('введите число = '))
 counter = 0
 degree = 1
 list = []
